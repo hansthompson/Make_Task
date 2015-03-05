@@ -1,4 +1,3 @@
-#recurance can be minute (1-1439 minutes in the day), hourly (1-23), daily (1-365), weekly (1-52 weeks in the year), once, onstart (after booting), on logon (after logging on as a user), onidle (after going to sleep), monthly (1-12 or first, second, ...), or onevent (XPath event query string). 
 recurrance <- "once"
 # the name of the task file to be created
 task_name <- "MyTask"
